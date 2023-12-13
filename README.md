@@ -1,5 +1,5 @@
 # Nest-Wrecker
-Nest-Wrecker is a simple Python script designed to untangle nested tags in markdown files, handy for those with extensive Obsidian Vaults or similar setups. It was created to address the challenge of managing large, interconnected note systems where tags can become cumbersome and overly complex.
+Nest-Wrecker is a simple Python script in a Jupyter Notebook designed to untangle nested tags in markdown files, handy for those with extensive Obsidian Vaults or similar setups. It was created to address the challenge of managing large, interconnected note systems where tags can become cumbersome and overly complex.
 
 ## What It Does
 This script efficiently processes markdown files in a given directory, transforming nested tags into individual, more manageable tags. For example, a tag like `#tag1/tag2/tag3` will be replaced with `#tag1 #tag2 #tag3`.
@@ -13,7 +13,7 @@ Managing a vast array of interconnected tags can become a daunting task for user
 
 ## Before You Run
 - **Back Up Your Files:** The script modifies your markdown files. Make sure to back up your files before running it.
-- **Python Environment:** Ensure you have Python installed on your system.
+- **Python Environment:** Ensure you have Python & Jupyter installed on your system.
 
 ## Disclaimer
 This tool was created out of personal necessity due to the intricacies of managing an extensive Obsidian Vault. It's shared in the hope that it may be helpful to others facing similar tag management challenges.
