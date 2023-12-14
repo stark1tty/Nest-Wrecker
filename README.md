@@ -15,5 +15,9 @@ Managing a vast array of interconnected tags can become a daunting task for user
 - **Back Up Your Files:** The script modifies your markdown files. Make sure to back up your files before running it.
 - **Python Environment:** Ensure you have Python & Jupyter installed on your system.
 
+## Notes
+- For Obsidian, Linter and Tag Wrangler are great for further managing.
+- The script will not work on hyphenated tags and needs slightly tweaked.
+
 ## Disclaimer
 This tool was created out of personal necessity due to the intricacies of managing an extensive Obsidian Vault. It's shared in the hope that it may be helpful to others facing similar tag management challenges.
